@@ -1,0 +1,50 @@
+body {
+	background-color:#ffffff;
+}
+
+
+
+.jumbotron{
+	background-color: #7f462c;
+	color:#ffffff;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+	.panel-default{
+	margin-top: 5px;
+    margin-left: 10px;
+	margin-right: 10px;
+	
+	}
+h1{
+	text-shadow: 2px 5px rgb(15, 39, 13);
+}
+h4{
+	margin-bottom: 0px;
+}
+.panel-heading,h4{
+font-size: 20px;
+background-color: #337ab7;
+}
+
+.panel-body{
+	box-sizing: border-box;    
+    border: 2px solid#337ab7;
+}
+
+
+#submitButton{
+	background-color: #337ab7;
+	color: #ffffff;
+}
+submit{
+	font-size: 15px;
+
+}
+submit.hover{
+	background-color: #e5d9e0 !important;
+	text-transform: uppercase;
+}

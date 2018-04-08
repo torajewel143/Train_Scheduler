@@ -1,0 +1,22 @@
+{
+  "name": "train_scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torajewel143/Train_Scheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torajewel143/Train_Scheduler/issues"
+  },
+  "homepage": "https://github.com/torajewel143/Train_Scheduler#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
